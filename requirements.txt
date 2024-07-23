@@ -1,0 +1,10 @@
+kafka-python
+scikit-learn
+pandas
+numpy
+joblib
+gradio
+plotly
+minio
+dask[complete]
+imbalanced-learn
